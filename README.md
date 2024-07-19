@@ -1,9 +1,9 @@
 # Experience-Continuous-Integration-With-Jenkins-Ansible-Artifactory-Sonarqube-PHP
 
-- Moved some files from ansible-config-mgt to the new repo
-- Spin up an EC2 red hat and chose t2 medium bcos we need to install Ansible and Jenkins on it 
--  Launch it and connect to it via vs code 
-- Install git.. sudo yum install git -y
+Moved some files from ansible-config-mgt to the new repo
+Spin up an EC2 red hat and chose t2 medium bcos we need to install Ansible and Jenkins on it 
+Launch it and connect to it via vs code 
+Install git.. sudo yum install git -y
   
 ![Alt text](images/14.1.png)
 
